@@ -1,0 +1,14 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "api rest express mysql",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
